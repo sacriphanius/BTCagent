@@ -1,6 +1,5 @@
 # BTCagent
 
-```
 # Bitcoin Transaction History Viewer
 
 This Python script allows you to view the transaction history associated with a specific Bitcoin address. It connects to a Bitcoin node via RPC and retrieves transaction details.
@@ -14,15 +13,14 @@ This Python script allows you to view the transaction history associated with a 
 
 1. Clone this repository:
 
-```
+
 git clone https://github.com/sacriphanius/BTCagent.git
-```
+
 
 2. Install dependencies:
 
-```
 pip install -r requirements.txt
-```
+
 
 ## Usage
 
@@ -30,9 +28,7 @@ pip install -r requirements.txt
 
 2. Run the script:
 
-```
 python3 BTCagent.py
-```
 
 3. Enter the Bitcoin address when prompted.
 
